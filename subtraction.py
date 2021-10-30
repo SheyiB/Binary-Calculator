@@ -2,7 +2,7 @@
 #     pass
     
 #print(bin_check02('9011')) 
-def addbuild():
+def subtractionbuild():
     # bin01 = input('Enter first binary \n -->')
     # bin02 = input('Enter second binary \n -->')
 
