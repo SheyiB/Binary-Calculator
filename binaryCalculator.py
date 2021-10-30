@@ -1,12 +1,11 @@
 print('*********BINARY CALCULATOR**********')
 
 from multiplication import *
-
+from addition import *
 #Determines the operation user wants to perform
 def determineOperation(response):
     if response == 1:
-        print('binaryaddition')
-        
+        addbuild()
     elif response == 2:
         print('binarySubtraction')
     elif response == 3:
